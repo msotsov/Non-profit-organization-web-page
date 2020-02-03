@@ -1,0 +1,49 @@
+body {
+    padding-top: 5px;
+}
+
+.navbar {
+    background-color: #fff;
+}
+
+.featurette-heading, h2 {
+    color: #1B4965;
+}
+
+.nav-link, .navbar-brand {
+    color: #1B4965;
+}
+
+.progress-bar {
+    background-color: #1B4965;
+}
+
+.featurette-image {
+    width: 80%;
+}
+
+.page-footer {
+    background-color: #1B4965;
+}
+
+.main-button {
+    background-color: #1B4965;
+    color: #fff;
+}
+
+#missions, #current {
+    padding-top: 1px;
+}
+
+#picture {
+    width: 1920px;
+    height: 850px;
+}
+
+#icon-footer {
+    color: #fff;
+}
+
+.card-pic {
+    height: 450px;
+}
